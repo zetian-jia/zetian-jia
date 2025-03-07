@@ -1,7 +1,11 @@
-[![zetian-jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetian-jia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeitan-jia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
+[![zetian-jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetian-jia)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hi there 👋
 
 **zetian-jia/zetian-jia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
