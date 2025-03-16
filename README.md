@@ -1,10 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+Code hard, debug harder. 🚀
 
 
 <!--
 [![zetian-jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetian-jia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there 👋
 
