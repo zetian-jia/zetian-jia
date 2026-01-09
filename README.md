@@ -41,7 +41,7 @@ R & Bioconductor    ████████████████░░░░
 Python              ███████████████░░░░░  75%
 C++                 ████████████░░░░░░░░  60%
 Rust                ██████████░░░░░░░░░░  50%
-Nextflow            ████████████████░░░░  80%
+Bash                ████████████████░░░░  80%
 ```
 
 <br>
@@ -56,19 +56,6 @@ High-performance computing for genomics pipelines, parallel processing architect
 </table>
 
 <br><br>
-
-<!-- DATA VISUALIZATION SECTION -->
-<div align="center">
-
-### METRICS
-
-<br>
-
-<img src="https://github.com/zetian-jia/zetian-jia/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
-
-<br><br>
-
-</div>
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
 <div align="center">
