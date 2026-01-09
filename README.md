@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER WITH TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Neurosurgery+MD-PhD+Candidate;Decoding+Epigenomes;Clinical+Precision+×+Computational+Rigor;Debugging+Biological+Noise" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Decoding+Epigenomes;Clinical+Precision+Computational+Rigor" alt="Typing SVG" />
 
 <br><br>
 
