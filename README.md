@@ -16,17 +16,12 @@
 
 <br>
 
-**PhD Candidate in Neurosurgery**  
+**PhD Candidate in Neurosurgery**
 Focus on **DNA methylation dynamics** and **single-cell genomics** in neural development and pathology.
 
 <br>
 
-Current research integrates multi-omics approaches to decode epigenetic regulation in the central nervous system. Primary contributions include the development of computational tools for methylation pattern analysis.
-
-<br>
-
-**Key Project:**  
-`methylTracer` — A high-performance R/Bioconductor package for single-cell DNA methylation trajectory inference.
+Current research integrates multi-omics approaches to decode epigenetic regulation in the central nervous system. Developing computational tools for high-dimensional methylation pattern analysis and trajectory inference.
 
 <br>
 
@@ -73,12 +68,12 @@ High-performance computing for genomics pipelines, parallel processing architect
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&icon_color=FF3333&bg_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=FF3333&bg_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&bg_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=FFFFFF&langs_count=6" alt="Top Languages" />
 
 </td>
 </tr>
@@ -95,11 +90,8 @@ High-performance computing for genomics pipelines, parallel processing architect
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetian-jia/zetian-jia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zetian-jia/zetian-jia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zetian-jia/zetian-jia/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/zetian-jia/zetian-jia/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zetian-jia/zetian-jia/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <br><br>
 
