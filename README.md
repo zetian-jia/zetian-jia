@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER WITH TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Neurosurgery+PhD+Candidate;R+%26+Bioconductor+Developer;Rust+%26+C%2B%2B+High-Performance+Computing;Swiss+Style+Design+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Neurosurgery+MD-PhD+Candidate;Decoding+Epigenomes;Clinical+Precision+×+Computational+Rigor;Debugging+Biological+Noise" alt="Typing SVG" />
 
 <br><br>
 
@@ -44,12 +44,6 @@ Rust                ██████████░░░░░░░░░░
 Bash                ████████████████░░░░  80%
 ```
 
-<br>
-
-**Specialization:**  
-High-performance computing for genomics pipelines, parallel processing architectures, and reproducible bioinformatics workflows.
-
-<br>
 
 </td>
 </tr>
@@ -82,7 +76,7 @@ High-performance computing for genomics pipelines, parallel processing architect
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](jztneurosurgery@hotamil.com)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-000000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-orcid-id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
