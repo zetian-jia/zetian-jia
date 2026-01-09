@@ -60,7 +60,7 @@ High-performance computing for genomics pipelines, parallel processing architect
 <!-- DATA VISUALIZATION SECTION -->
 <div align="center">
 
-<h3>METRICS</h3>
+### METRICS
 
 <br>
 
@@ -68,12 +68,12 @@ High-performance computing for genomics pipelines, parallel processing architect
 <tr>
 <td width="50%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=FF3333&bg_color=FFFFFF&rank_icon=github)](https://github.com/zetian-jia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&hide_border=true&title_color=000&text_color=333&icon_color=e74c3c&bg_color=fff)
 
 </td>
 <td width="50%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=FFFFFF&langs_count=6)](https://github.com/zetian-jia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact&hide_border=true&title_color=000&text_color=333&bg_color=fff&langs_count=6)
 
 </td>
 </tr>
