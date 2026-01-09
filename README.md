@@ -64,21 +64,7 @@ High-performance computing for genomics pipelines, parallel processing architect
 
 <br>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="10">
-<tr>
-<td width="50%" align="center">
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&hide_border=true&title_color=000&text_color=333&icon_color=e74c3c&bg_color=fff) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetian-jia&show_icons=true&theme=radical)
-</td>
-<td width="50%" align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetian-jia&layout=compact&hide_border=true&title_color=000&text_color=333&bg_color=fff&langs_count=6)
-
-</td>
-</tr>
-</table>
+<img src="https://github.com/zetian-jia/zetian-jia/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
 
 <br><br>
 
